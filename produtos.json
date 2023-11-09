@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "img": "celular.jpg",
+      "img": "https://m.media-amazon.com/images/I/51cIuAFJ0eL._AC_SX679_.jpg",
       "nome": "Smartphone XYZ",
       "descricao": "Celular de última geração",
       "valorSemDesconto": 1200.00,
@@ -9,7 +9,7 @@
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "notebook.jpg",
+      "img": "https://m.media-amazon.com/images/I/51cIuAFJ0eL._AC_SX679_.jpg",
       "nome": "Notebook ABC",
       "descricao": "Notebook ultrafino e potente",
       "valorSemDesconto": 2500.00,
@@ -17,7 +17,7 @@
       "tipoEntrega": "RECEBA HOJE"
     },
     {
-      "img": "ps5.jpg",
+      "img": "https://m.media-amazon.com/images/I/51cIuAFJ0eL._AC_SX679_.jpg",
       "nome": "PlayStation 5",
       "descricao": "Console de última geração",
       "valorSemDesconto": 2300.00,
@@ -25,7 +25,7 @@
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "maquiagem.jpg",
+      "img": "https://m.media-amazon.com/images/I/51cIuAFJ0eL._AC_SX679_.jpg",
       "nome": "Kit de Maquiagem Glamour",
       "descricao": "Produtos de beleza de alta qualidade",
       "valorSemDesconto": 150.00,
@@ -33,7 +33,7 @@
       "tipoEntrega": "RECEBA HOJE"
     },
     {
-      "img": "secador.jpg",
+      "img": "https://m.media-amazon.com/images/I/51cIuAFJ0eL._AC_SX679_.jpg",
       "nome": "Secador de Cabelo Profissional",
       "descricao": "Secador potente para resultados incríveis",
       "valorSemDesconto": 80.00,
@@ -41,7 +41,7 @@
       "tipoEntrega": "Frete GRÁTIS"
     },
     {
-      "img": "perfume.jpg",
+      "img": "https://m.media-amazon.com/images/I/51cIuAFJ0eL._AC_SX679_.jpg",
       "nome": "Perfume Elegance",
       "descricao": "Fragrância sofisticada e duradoura",
       "valorSemDesconto": 120.00,
