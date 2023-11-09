@@ -1,5 +1,4 @@
-{
-  "produtos": [
+[
     {
       "img": "https://m.media-amazon.com/images/I/51cIuAFJ0eL._AC_SX679_.jpg",
       "nome": "Smartphone XYZ",
@@ -48,5 +47,4 @@
       "valorComDesconto": 99.99,
       "tipoEntrega": "RECEBA HOJE"
     }
-  ]
-}
+]
